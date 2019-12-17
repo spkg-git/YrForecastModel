@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weatherdata>
+  <location>
+    <name>Potlovo</name>
+    <type>Populated place</type>
+    <country>Russia</country>
+    <timezone id="Europe/Moscow" utcoffsetMinutes="180" />
+    <location altitude="160" latitude="54.76939" longitude="38.77379" geobase="geonames" geobaseid="819220" />
+  </location>
+  <credit>
+    <!--In order to use the free weather data from yr no, you HAVE to display 
+the following text clearly visible on your web page. The text should be a 
+link to the specified URL.-->
+    <!--Please read more about our conditions and guidelines at http://om.yr.no/verdata/  English explanation at http://om.yr.no/verdata/free-weather-data/-->
+    <link text="Weather forecast from Yr, delivered by the Norwegian Meteorological Institute and the NRK" url="http://www.yr.no/place/Russia/Moscow_oblast/Potlovo/" />
+  </credit>
+  <links>
+    <link id="xmlSource" url="http://www.yr.no/place/Russia/Moscow_oblast/Potlovo/forecast.xml" />
+    <link id="xmlSourceHourByHour" url="http://www.yr.no/place/Russia/Moscow_oblast/Potlovo/forecast_hour_by_hour.xml" />
+    <link id="overview" url="http://www.yr.no/place/Russia/Moscow_oblast/Potlovo/" />
+    <link id="hourByHour" url="http://www.yr.no/place/Russia/Moscow_oblast/Potlovo/hour_by_hour" />
+    <link id="longTermForecast" url="http://www.yr.no/place/Russia/Moscow_oblast/Potlovo/long" />
+  </links>
+  <meta>
+    <lastupdate>2019-12-16T11:46:00</lastupdate>
+    <nextupdate>2019-12-16T17:47:00</nextupdate>
+  </meta>
+  <sun rise="2019-12-16T08:42:48" set="2019-12-16T15:57:29" />
+  <forecast>
+    <tabular>
+      <time from="2019-12-16T16:00:00" to="2019-12-16T18:00:00" period="2">
+        <!-- Valid from 2019-12-16T16:00:00 to 2019-12-16T18:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-16T16:00:00 -->
+        <windDirection deg="216.2" code="SW" name="Southwest" />
+        <windSpeed mps="4.3" name="Gentle breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="1010.5" />
+      </time>
+      <time from="2019-12-16T18:00:00" to="2019-12-17T00:00:00" period="3">
+        <!-- Valid from 2019-12-16T18:00:00 to 2019-12-17T00:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0.4" />
+        <!-- Valid at 2019-12-16T18:00:00 -->
+        <windDirection deg="224.6" code="SW" name="Southwest" />
+        <windSpeed mps="3.6" name="Gentle breeze" />
+        <temperature unit="celsius" value="1" />
+        <pressure unit="hPa" value="1010.6" />
+      </time>
+      <time from="2019-12-17T00:00:00" to="2019-12-17T06:00:00" period="0">
+        <!-- Valid from 2019-12-17T00:00:00 to 2019-12-17T06:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0.4" />
+        <!-- Valid at 2019-12-17T00:00:00 -->
+        <windDirection deg="254.3" code="WSW" name="West-southwest" />
+        <windSpeed mps="5.5" name="Moderate breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="1010.6" />
+      </time>
+      <time from="2019-12-17T06:00:00" to="2019-12-17T12:00:00" period="1">
+        <!-- Valid from 2019-12-17T06:00:00 to 2019-12-17T12:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-17T06:00:00 -->
+        <windDirection deg="278.4" code="W" name="West" />
+        <windSpeed mps="5.0" name="Gentle breeze" />
+        <temperature unit="celsius" value="1" />
+        <pressure unit="hPa" value="1014.8" />
+      </time>
+      <time from="2019-12-17T12:00:00" to="2019-12-17T18:00:00" period="2">
+        <!-- Valid from 2019-12-17T12:00:00 to 2019-12-17T18:00:00 -->
+        <symbol number="12" numberEx="47" name="Light sleet" var="47" />
+        <precipitation value="0.9" />
+        <!-- Valid at 2019-12-17T12:00:00 -->
+        <windDirection deg="234.7" code="SW" name="Southwest" />
+        <windSpeed mps="3.5" name="Gentle breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="1017.0" />
+      </time>
+      <time from="2019-12-17T18:00:00" to="2019-12-18T00:00:00" period="3">
+        <!-- Valid from 2019-12-17T18:00:00 to 2019-12-18T00:00:00 -->
+        <symbol number="12" numberEx="47" name="Light sleet" var="47" />
+        <precipitation value="0.7" />
+        <!-- Valid at 2019-12-17T18:00:00 -->
+        <windDirection deg="213.1" code="SSW" name="South-southwest" />
+        <windSpeed mps="4.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="1" />
+        <pressure unit="hPa" value="1014.4" />
+      </time>
+      <time from="2019-12-18T00:00:00" to="2019-12-18T06:00:00" period="0">
+        <!-- Valid from 2019-12-18T00:00:00 to 2019-12-18T06:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0.3" />
+        <!-- Valid at 2019-12-18T00:00:00 -->
+        <windDirection deg="274.0" code="W" name="West" />
+        <windSpeed mps="3.1" name="Light breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="1013.6" />
+      </time>
+      <time from="2019-12-18T06:00:00" to="2019-12-18T12:00:00" period="1">
+        <!-- Valid from 2019-12-18T06:00:00 to 2019-12-18T12:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0.1" />
+        <!-- Valid at 2019-12-18T06:00:00 -->
+        <windDirection deg="263.3" code="W" name="West" />
+        <windSpeed mps="1.7" name="Light breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="1015.1" />
+      </time>
+      <time from="2019-12-18T12:00:00" to="2019-12-18T18:00:00" period="2">
+        <!-- Valid from 2019-12-18T12:00:00 to 2019-12-18T18:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-18T12:00:00 -->
+        <windDirection deg="202.0" code="SSW" name="South-southwest" />
+        <windSpeed mps="1.9" name="Light breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1016.0" />
+      </time>
+      <time from="2019-12-18T18:00:00" to="2019-12-19T00:00:00" period="3">
+        <!-- Valid from 2019-12-18T18:00:00 to 2019-12-19T00:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-18T18:00:00 -->
+        <windDirection deg="186.1" code="S" name="South" />
+        <windSpeed mps="3.6" name="Gentle breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1013.5" />
+      </time>
+      <time from="2019-12-18T21:00:00" to="2019-12-19T03:00:00" period="0">
+        <!-- Valid from 2019-12-18T21:00:00 to 2019-12-19T03:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0.1" />
+        <!-- Valid at 2019-12-18T21:00:00 -->
+        <windDirection deg="206.4" code="SSW" name="South-southwest" />
+        <windSpeed mps="4.6" name="Gentle breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1010.8" />
+      </time>
+      <time from="2019-12-19T03:00:00" to="2019-12-19T09:00:00" period="1">
+        <!-- Valid from 2019-12-19T03:00:00 to 2019-12-19T09:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-19T03:00:00 -->
+        <windDirection deg="240.1" code="WSW" name="West-southwest" />
+        <windSpeed mps="5.8" name="Moderate breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1007.5" />
+      </time>
+      <time from="2019-12-19T09:00:00" to="2019-12-19T15:00:00" period="2">
+        <!-- Valid from 2019-12-19T09:00:00 to 2019-12-19T15:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0.2" />
+        <!-- Valid at 2019-12-19T09:00:00 -->
+        <windDirection deg="270.2" code="W" name="West" />
+        <windSpeed mps="7.2" name="Moderate breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1006.8" />
+      </time>
+      <time from="2019-12-19T15:00:00" to="2019-12-19T21:00:00" period="3">
+        <!-- Valid from 2019-12-19T15:00:00 to 2019-12-19T21:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-19T15:00:00 -->
+        <windDirection deg="282.9" code="WNW" name="West-northwest" />
+        <windSpeed mps="8.9" name="Fresh breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1006.4" />
+      </time>
+      <time from="2019-12-19T21:00:00" to="2019-12-20T03:00:00" period="0">
+        <!-- Valid from 2019-12-19T21:00:00 to 2019-12-20T03:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-19T21:00:00 -->
+        <windDirection deg="296.5" code="WNW" name="West-northwest" />
+        <windSpeed mps="7.9" name="Moderate breeze" />
+        <temperature unit="celsius" value="1" />
+        <pressure unit="hPa" value="1012.4" />
+      </time>
+      <time from="2019-12-20T03:00:00" to="2019-12-20T09:00:00" period="1">
+        <!-- Valid from 2019-12-20T03:00:00 to 2019-12-20T09:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-20T03:00:00 -->
+        <windDirection deg="306.8" code="NW" name="Northwest" />
+        <windSpeed mps="6.8" name="Moderate breeze" />
+        <temperature unit="celsius" value="0" />
+        <pressure unit="hPa" value="1017.2" />
+      </time>
+      <time from="2019-12-20T09:00:00" to="2019-12-20T15:00:00" period="2">
+        <!-- Valid from 2019-12-20T09:00:00 to 2019-12-20T15:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-20T09:00:00 -->
+        <windDirection deg="313.0" code="NW" name="Northwest" />
+        <windSpeed mps="4.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="-1" />
+        <pressure unit="hPa" value="1020.8" />
+      </time>
+      <time from="2019-12-20T15:00:00" to="2019-12-20T21:00:00" period="3">
+        <!-- Valid from 2019-12-20T15:00:00 to 2019-12-20T21:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-20T15:00:00 -->
+        <windDirection deg="285.7" code="WNW" name="West-northwest" />
+        <windSpeed mps="3.0" name="Light breeze" />
+        <temperature unit="celsius" value="-1" />
+        <pressure unit="hPa" value="1022.5" />
+      </time>
+      <time from="2019-12-20T21:00:00" to="2019-12-21T03:00:00" period="0">
+        <!-- Valid from 2019-12-20T21:00:00 to 2019-12-21T03:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-20T21:00:00 -->
+        <windDirection deg="288.6" code="WNW" name="West-northwest" />
+        <windSpeed mps="1.7" name="Light breeze" />
+        <temperature unit="celsius" value="-3" />
+        <pressure unit="hPa" value="1023.0" />
+      </time>
+      <time from="2019-12-21T03:00:00" to="2019-12-21T09:00:00" period="1">
+        <!-- Valid from 2019-12-21T03:00:00 to 2019-12-21T09:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-21T03:00:00 -->
+        <windDirection deg="188.8" code="S" name="South" />
+        <windSpeed mps="1.7" name="Light breeze" />
+        <temperature unit="celsius" value="-4" />
+        <pressure unit="hPa" value="1023.0" />
+      </time>
+      <time from="2019-12-21T09:00:00" to="2019-12-21T15:00:00" period="2">
+        <!-- Valid from 2019-12-21T09:00:00 to 2019-12-21T15:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-21T09:00:00 -->
+        <windDirection deg="156.8" code="SSE" name="South-southeast" />
+        <windSpeed mps="2.9" name="Light breeze" />
+        <temperature unit="celsius" value="-5" />
+        <pressure unit="hPa" value="1022.1" />
+      </time>
+      <time from="2019-12-21T15:00:00" to="2019-12-21T21:00:00" period="3">
+        <!-- Valid from 2019-12-21T15:00:00 to 2019-12-21T21:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-21T15:00:00 -->
+        <windDirection deg="142.5" code="SE" name="Southeast" />
+        <windSpeed mps="3.4" name="Gentle breeze" />
+        <temperature unit="celsius" value="-1" />
+        <pressure unit="hPa" value="1020.6" />
+      </time>
+      <time from="2019-12-21T21:00:00" to="2019-12-22T03:00:00" period="0">
+        <!-- Valid from 2019-12-21T21:00:00 to 2019-12-22T03:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-21T21:00:00 -->
+        <windDirection deg="152.4" code="SSE" name="South-southeast" />
+        <windSpeed mps="4.3" name="Gentle breeze" />
+        <temperature unit="celsius" value="-3" />
+        <pressure unit="hPa" value="1019.5" />
+      </time>
+      <time from="2019-12-22T03:00:00" to="2019-12-22T09:00:00" period="1">
+        <!-- Valid from 2019-12-22T03:00:00 to 2019-12-22T09:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-22T03:00:00 -->
+        <windDirection deg="155.7" code="SSE" name="South-southeast" />
+        <windSpeed mps="4.7" name="Gentle breeze" />
+        <temperature unit="celsius" value="-2" />
+        <pressure unit="hPa" value="1018.9" />
+      </time>
+      <time from="2019-12-22T09:00:00" to="2019-12-22T15:00:00" period="2">
+        <!-- Valid from 2019-12-22T09:00:00 to 2019-12-22T15:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-22T09:00:00 -->
+        <windDirection deg="157.5" code="SSE" name="South-southeast" />
+        <windSpeed mps="4.3" name="Gentle breeze" />
+        <temperature unit="celsius" value="-2" />
+        <pressure unit="hPa" value="1018.3" />
+      </time>
+      <time from="2019-12-22T15:00:00" to="2019-12-22T21:00:00" period="3">
+        <!-- Valid from 2019-12-22T15:00:00 to 2019-12-22T21:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-22T15:00:00 -->
+        <windDirection deg="148.9" code="SSE" name="South-southeast" />
+        <windSpeed mps="4.5" name="Gentle breeze" />
+        <temperature unit="celsius" value="1" />
+        <pressure unit="hPa" value="1018.2" />
+      </time>
+      <time from="2019-12-22T21:00:00" to="2019-12-23T03:00:00" period="0">
+        <!-- Valid from 2019-12-22T21:00:00 to 2019-12-23T03:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-22T21:00:00 -->
+        <windDirection deg="154.3" code="SSE" name="South-southeast" />
+        <windSpeed mps="5.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="1" />
+        <pressure unit="hPa" value="1018.4" />
+      </time>
+      <time from="2019-12-23T03:00:00" to="2019-12-23T09:00:00" period="1">
+        <!-- Valid from 2019-12-23T03:00:00 to 2019-12-23T09:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0.1" />
+        <!-- Valid at 2019-12-23T03:00:00 -->
+        <windDirection deg="151.8" code="SSE" name="South-southeast" />
+        <windSpeed mps="5.3" name="Gentle breeze" />
+        <temperature unit="celsius" value="0" />
+        <pressure unit="hPa" value="1019.3" />
+      </time>
+      <time from="2019-12-23T09:00:00" to="2019-12-23T15:00:00" period="2">
+        <!-- Valid from 2019-12-23T09:00:00 to 2019-12-23T15:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0.1" />
+        <!-- Valid at 2019-12-23T09:00:00 -->
+        <windDirection deg="158.5" code="SSE" name="South-southeast" />
+        <windSpeed mps="5.8" name="Moderate breeze" />
+        <temperature unit="celsius" value="0" />
+        <pressure unit="hPa" value="1019.9" />
+      </time>
+      <time from="2019-12-23T15:00:00" to="2019-12-23T21:00:00" period="3">
+        <!-- Valid from 2019-12-23T15:00:00 to 2019-12-23T21:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0.1" />
+        <!-- Valid at 2019-12-23T15:00:00 -->
+        <windDirection deg="158.5" code="SSE" name="South-southeast" />
+        <windSpeed mps="6.1" name="Moderate breeze" />
+        <temperature unit="celsius" value="1" />
+        <pressure unit="hPa" value="1020.6" />
+      </time>
+      <time from="2019-12-23T21:00:00" to="2019-12-24T03:00:00" period="0">
+        <!-- Valid from 2019-12-23T21:00:00 to 2019-12-24T03:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-23T21:00:00 -->
+        <windDirection deg="160.0" code="SSE" name="South-southeast" />
+        <windSpeed mps="6.1" name="Moderate breeze" />
+        <temperature unit="celsius" value="0" />
+        <pressure unit="hPa" value="1021.4" />
+      </time>
+      <time from="2019-12-24T03:00:00" to="2019-12-24T09:00:00" period="1">
+        <!-- Valid from 2019-12-24T03:00:00 to 2019-12-24T09:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-24T03:00:00 -->
+        <windDirection deg="158.7" code="SSE" name="South-southeast" />
+        <windSpeed mps="6.4" name="Moderate breeze" />
+        <temperature unit="celsius" value="-2" />
+        <pressure unit="hPa" value="1021.2" />
+      </time>
+      <time from="2019-12-24T09:00:00" to="2019-12-24T15:00:00" period="2">
+        <!-- Valid from 2019-12-24T09:00:00 to 2019-12-24T15:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2019-12-24T09:00:00 -->
+        <windDirection deg="164.0" code="SSE" name="South-southeast" />
+        <windSpeed mps="6.7" name="Moderate breeze" />
+        <temperature unit="celsius" value="-2" />
+        <pressure unit="hPa" value="1020.0" />
+      </time>
+      <time from="2019-12-24T15:00:00" to="2019-12-24T21:00:00" period="3">
+        <!-- Valid from 2019-12-24T15:00:00 to 2019-12-24T21:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0.1" />
+        <!-- Valid at 2019-12-24T15:00:00 -->
+        <windDirection deg="159.7" code="SSE" name="South-southeast" />
+        <windSpeed mps="5.9" name="Moderate breeze" />
+        <temperature unit="celsius" value="-1" />
+        <pressure unit="hPa" value="1018.2" />
+      </time>
+      <time from="2019-12-24T21:00:00" to="2019-12-25T03:00:00" period="0">
+        <!-- Valid from 2019-12-24T21:00:00 to 2019-12-25T03:00:00 -->
+        <symbol number="13" numberEx="13" name="Snow" var="13" />
+        <precipitation value="3.6" />
+        <!-- Valid at 2019-12-24T21:00:00 -->
+        <windDirection deg="168.2" code="SSE" name="South-southeast" />
+        <windSpeed mps="6.5" name="Moderate breeze" />
+        <temperature unit="celsius" value="-1" />
+        <pressure unit="hPa" value="1016.2" />
+      </time>
+      <time from="2019-12-25T03:00:00" to="2019-12-25T09:00:00" period="1">
+        <!-- Valid from 2019-12-25T03:00:00 to 2019-12-25T09:00:00 -->
+        <symbol number="12" numberEx="47" name="Light sleet" var="47" />
+        <precipitation value="0.7" />
+        <!-- Valid at 2019-12-25T03:00:00 -->
+        <windDirection deg="169.4" code="S" name="South" />
+        <windSpeed mps="6.2" name="Moderate breeze" />
+        <temperature unit="celsius" value="-1" />
+        <pressure unit="hPa" value="1014.1" />
+      </time>
+      <time from="2019-12-25T09:00:00" to="2019-12-25T15:00:00" period="2">
+        <!-- Valid from 2019-12-25T09:00:00 to 2019-12-25T15:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0.3" />
+        <!-- Valid at 2019-12-25T09:00:00 -->
+        <windDirection deg="175.5" code="S" name="South" />
+        <windSpeed mps="5.5" name="Moderate breeze" />
+        <temperature unit="celsius" value="1" />
+        <pressure unit="hPa" value="1013.5" />
+      </time>
+      <time from="2019-12-25T15:00:00" to="2019-12-25T21:00:00" period="3">
+        <!-- Valid from 2019-12-25T15:00:00 to 2019-12-25T21:00:00 -->
+        <symbol number="12" numberEx="47" name="Light sleet" var="47" />
+        <precipitation value="0.5" />
+        <!-- Valid at 2019-12-25T15:00:00 -->
+        <windDirection deg="170.4" code="S" name="South" />
+        <windSpeed mps="4.5" name="Gentle breeze" />
+        <temperature unit="celsius" value="1" />
+        <pressure unit="hPa" value="1013.7" />
+      </time>
+    </tabular>
+  </forecast>
+  <weatherstation stno="0" sttype="" name="" distance="0" lat="0" lon="0" source="">
+    <!--Observasjoner er ikke lengre tilgjengelig i dette datasettet. Observations are no longer availble in this dataset-->
+    <symbol number="0" name="" time="2019-11-14T00:00:00Z" />
+    <temperature unit="" value="0" time="2019-11-14T00:00:00Z" />
+    <windDirection deg="0" code="" name="" time="2019-11-14T00:00:00Z" />
+    <windSpeed mps="0" name="" time="2019-11-14T00:00:00Z" />
+  </weatherstation>
+</weatherdata>
