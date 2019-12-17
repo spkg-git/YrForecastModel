@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Xml.Serialization;
-namespace YrNoForecast
+namespace YrForecastModel
 {
     /// <summary>
     /// Air pressure in hectopascal at sea level.

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Xml.Serialization;
 
-namespace YrNoForecast
+namespace YrForecastModel
 {
     [Serializable]
     public class CreditLink

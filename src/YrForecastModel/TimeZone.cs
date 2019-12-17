@@ -1,7 +1,7 @@
 ﻿using System.Xml.Serialization;
 using System;
 
-namespace YrNoForecast
+namespace YrForecastModel
 
 {
     [Serializable]
