@@ -40,6 +40,6 @@ namespace YrForecastModel
         /// Geobase ID
         /// </summary>
         [XmlAttribute("geobaseid")]
-        public UInt32 Geobaseid { get; set; }
+        public Int32 Geobaseid { get; set; }
     }
 }

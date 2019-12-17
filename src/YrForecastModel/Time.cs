@@ -28,7 +28,7 @@ namespace YrForecastModel
         /// Prediction period (0, 1, 2, 3)
         /// </summary>
         [XmlAttribute("period")]
-        public UInt16 Period { get; set; }
+        public Int16 Period { get; set; }
 
         #endregion
 
