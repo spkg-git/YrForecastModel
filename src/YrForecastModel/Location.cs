@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Xml.Serialization;
-namespace YrNoForecast
+namespace YrForecastModel
 {
     ///<summary>The node has information about the official location name, type of location, country and time zone. 
     ///Timezone has the name of time zone and deviation per minute compared with UTC time. All times are local.

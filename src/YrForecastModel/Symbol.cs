@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Xml.Serialization;
-namespace YrNoForecast
+namespace YrForecastModel
 {
     /// <summary>
     /// Symbols are specified with number and name. Use the attribute "numberEx". 

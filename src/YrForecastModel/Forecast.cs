@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Xml.Serialization;
 using System.Collections.Generic;
-namespace YrNoForecast
+namespace YrForecastModel
 {
     /// <summary>
     /// Forecast

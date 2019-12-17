@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Xml.Serialization;
-namespace YrNoForecast
+namespace YrForecastModel
 {
     /// <summary>
     /// Date and time of the interval the forecast is valid for. 

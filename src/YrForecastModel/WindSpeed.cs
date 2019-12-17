@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Xml.Serialization;
-namespace YrNoForecast
+namespace YrForecastModel
 {
     /// <summary>
     /// Wind speed in meters per second (m/s) with associated Beaufort name.
