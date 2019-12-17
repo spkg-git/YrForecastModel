@@ -1,7 +1,7 @@
 # YrForecastModel
-This project is a Net.Core model of [Yr's weather forecasts in XML format](https://hjelp.yr.no/hc/en-us/articles/360001940793-Free-weather-data-service-from-Yr)
-for Serializing/Deserializing.
+This project is a Net.Core model of [Yr's weather forecasts in XML format](https://hjelp.yr.no/hc/en-us/articles/360001940793-Free-weather-data-service-from-Yr) for Serializing/Deserializing.
 
+[![Actions Status](https://github.com/spkg-git/YrForecastModel/workflows/.NET%20Core/badge.svg)](https://github.com/spkg-git/YrForecastModel/YrForecastModel/actions?query=workflow%3A%22.NET+Core%22)
 ## Example
 ```csharp
 
