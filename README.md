@@ -17,6 +17,6 @@ using StreamReader sr = new StreamReader("forecast.xml");
 weatherData = (WeatherData) ser.Deserialize(sr);
 
 //Serialization
-using StreamWriter sr = new StreamWriter("forecast_test_result.xml");
-ser.Serialize(sr, (WeatherData)weatherData);
+using StreamWriter swr = new StreamWriter("forecast_test_result.xml");
+ser.Serialize(swr, (WeatherData)weatherData);
 ```
