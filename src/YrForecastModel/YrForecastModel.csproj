@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>spkg-git</Authors>
+    <Description>Data model of Yr's weather forecasts in XML format fo XML Serialisation / Deseralisation.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/spkg-git/YrForecastModel</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
   </PropertyGroup>
 
 </Project>
