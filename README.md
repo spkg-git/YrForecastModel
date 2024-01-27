@@ -5,7 +5,7 @@ This project is a .NET Core model of [Yr's weather forecasts in XML format](http
 
 [Example of forecast.xml](https://github.com/spkg-git/YrForecastModel/blob/master/forecast.xml)
 
-[XML specification of forecast.xml](https://hjelp.yr.no/hc/en-us/articles/360009342913-XML-specification-of-forecast-xml)
+[XML specification of forecast.xml](https://hjelp.yr.no/hc/en-us/articles/360001940793-Free-weather-data-service-from-Yr)
 
 ## Installation
 
