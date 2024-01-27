@@ -3,7 +3,7 @@ This project is a .NET Core model of [Yr's weather forecasts in XML format](http
 
 [![Actions Status](https://github.com/spkg-git/YrForecastModel/workflows/.NET%20Core/badge.svg)](https://github.com/spkg-git/YrForecastModel/YrForecastModel/actions?query=workflow%3A%22.NET+Core%22)
 
-[Example of forecast.xml](https://github.com/spkg-git/YrForecastModel/blob/spkg-git-description/forecast.xml)
+[Example of forecast.xml](https://github.com/spkg-git/YrForecastModel/blob/master/forecast.xml)
 
 [XML specification of forecast.xml](https://hjelp.yr.no/hc/en-us/articles/360009342913-XML-specification-of-forecast-xml)
 
