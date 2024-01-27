@@ -11,7 +11,7 @@ This project is a .NET Core model of [Yr's weather forecasts in XML format](http
 
 Either checkout this Github repository or install YrForecastModel via NuGet Package Manager. If you want to use NuGet just search for "YrForecastModel" or run the following command in the NuGet Package Manager console:
 ```bash
-PM> Install-Package YrForecastModel -Version 1.0.0
+PM> Install-Package YrForecastModel -Version 2.0.0
 ```
 ## Code Example:
 
